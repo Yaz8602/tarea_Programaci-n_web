@@ -1,2 +1,2 @@
-# tarea_Programaci-n_web
+# tarea_Programacion_web
 Guadalupe Jazmín Pérez Juárez
